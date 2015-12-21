@@ -4,14 +4,21 @@
         <description><![CDATA[ServiceSheets]]></description>
         <link>https://thegrid.ai/servicesheets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 16:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 17:02:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/servicesheets/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post]]></title>
-            <description><![CDATA[<article><h1>First Post</h1><p>Just including some pictures!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9a90302a034248521aed0243b003b2780995070.png"></article>]]></description>
+            <description><![CDATA[<article><h1>First Post</h1><p>Just including some pictures!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c29637f6f1ac57e32342e2816cc85e26b528e9b.png"></article>]]></description>
             <link>https://thegrid.ai/servicesheets/first-post/index.html</link>
             <guid isPermaLink="false">e38d9ace-5720-42fb-b81c-f8cb2f57a7cb</guid>
             <pubDate>Mon, 21 Dec 2015 16:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Communication Strategies.]]></title>
+            <description><![CDATA[<article><h1>4 Communication Strategies.</h1><p>Hey! My name is Rusty and I am old. I know I am old because I read my email. I actually think email is great. You can quickly and easily type full sentences, paragraphs, even usegrammergrammar(did I mention spell-check?). But that makes me old because, according to the New York Times, enjoying email is asign you are old. And that article was written in 2010… so I must be really old.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e04389cda9ab58ea95bc6b6e2617c00866a4aa4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/servicesheets/4-communication-strategies/index.html</link>
+            <guid isPermaLink="false">8fed084d-281b-458a-a766-3af63019bc1c</guid>
+            <pubDate>Mon, 21 Dec 2015 17:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
