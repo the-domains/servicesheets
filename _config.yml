@@ -1,7 +1,18 @@
+layout_spectrum: 0.15095089026726782
+typography_spectrum: 0.4567130389623344
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.5375302203465253
+  lightness: 0.6358085535466671
+  saturation: 0.6799775820691139
+  rhythmicContrast: 0.16774208866991103
 name: ServiceSheets
 favicon: null
-layout_spectrum: 0.17308819922618568
-typography_spectrum: 0.8243397353217006
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.94924271479249
-  lightness: 0.5828770818188787
-  saturation: 0.057021750370040536
-  rhythmicContrast: 0.8484487428795546
 purpose: []
